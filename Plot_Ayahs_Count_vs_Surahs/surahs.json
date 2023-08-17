@@ -1,0 +1,1028 @@
+{
+    "1": {
+        "revelation_order": 5,
+        "revelation_place": "makkah",
+        "name_arabic": "الفاتحة",
+        "name_complex": "Al-Fātiĥah",
+        "name_simple": "Al-Fatihah",
+        "name_english": "The Opener",
+        "ayah_count": 7
+    },
+    "2": {
+        "revelation_order": 87,
+        "revelation_place": "madinah",
+        "name_arabic": "البقرة",
+        "name_complex": "Al-Baqarah",
+        "name_simple": "Al-Baqarah",
+        "name_english": "The Cow",
+        "ayah_count": 286
+    },
+    "3": {
+        "revelation_order": 89,
+        "revelation_place": "madinah",
+        "name_arabic": "آل عمران",
+        "name_complex": "Āli `Imrān",
+        "name_simple": "Ali 'Imran",
+        "name_english": "Family of Imran",
+        "ayah_count": 200
+    },
+    "4": {
+        "revelation_order": 92,
+        "revelation_place": "madinah",
+        "name_arabic": "النساء",
+        "name_complex": "An-Nisā",
+        "name_simple": "An-Nisa",
+        "name_english": "The Women",
+        "ayah_count": 176
+    },
+    "5": {
+        "revelation_order": 112,
+        "revelation_place": "madinah",
+        "name_arabic": "المائدة",
+        "name_complex": "Al-Mā'idah",
+        "name_simple": "Al-Ma'idah",
+        "name_english": "The Table Spread",
+        "ayah_count": 120
+    },
+    "6": {
+        "revelation_order": 55,
+        "revelation_place": "makkah",
+        "name_arabic": "الأنعام",
+        "name_complex": "Al-'An`ām",
+        "name_simple": "Al-An'am",
+        "name_english": "The Cattle",
+        "ayah_count": 165
+    },
+    "7": {
+        "revelation_order": 39,
+        "revelation_place": "makkah",
+        "name_arabic": "الأعراف",
+        "name_complex": "Al-'A`rāf",
+        "name_simple": "Al-A'raf",
+        "name_english": "The Heights",
+        "ayah_count": 206
+    },
+    "8": {
+        "revelation_order": 88,
+        "revelation_place": "madinah",
+        "name_arabic": "الأنفال",
+        "name_complex": "Al-'Anfāl",
+        "name_simple": "Al-Anfal",
+        "name_english": "The Spoils of War",
+        "ayah_count": 75
+    },
+    "9": {
+        "revelation_order": 113,
+        "revelation_place": "madinah",
+        "name_arabic": "التوبة",
+        "name_complex": "At-Tawbah",
+        "name_simple": "At-Tawbah",
+        "name_english": "The Repentance",
+        "ayah_count": 129
+    },
+    "10": {
+        "revelation_order": 51,
+        "revelation_place": "makkah",
+        "name_arabic": "يونس",
+        "name_complex": "Yūnus",
+        "name_simple": "Yunus",
+        "name_english": "Jonah",
+        "ayah_count": 109
+    },
+    "11": {
+        "revelation_order": 52,
+        "revelation_place": "makkah",
+        "name_arabic": "هود",
+        "name_complex": "Hūd",
+        "name_simple": "Hud",
+        "name_english": "Hud",
+        "ayah_count": 123
+    },
+    "12": {
+        "revelation_order": 53,
+        "revelation_place": "makkah",
+        "name_arabic": "يوسف",
+        "name_complex": "Yūsuf",
+        "name_simple": "Yusuf",
+        "name_english": "Joseph",
+        "ayah_count": 111
+    },
+    "13": {
+        "revelation_order": 96,
+        "revelation_place": "madinah",
+        "name_arabic": "الرعد",
+        "name_complex": "Ar-Ra`d",
+        "name_simple": "Ar-Ra'd",
+        "name_english": "The Thunder",
+        "ayah_count": 43
+    },
+    "14": {
+        "revelation_order": 72,
+        "revelation_place": "makkah",
+        "name_arabic": "ابراهيم",
+        "name_complex": "Ibrāhīm",
+        "name_simple": "Ibrahim",
+        "name_english": "Abrahim",
+        "ayah_count": 52
+    },
+    "15": {
+        "revelation_order": 54,
+        "revelation_place": "makkah",
+        "name_arabic": "الحجر",
+        "name_complex": "Al-Ĥijr",
+        "name_simple": "Al-Hijr",
+        "name_english": "The Rocky Tract",
+        "ayah_count": 99
+    },
+    "16": {
+        "revelation_order": 70,
+        "revelation_place": "makkah",
+        "name_arabic": "النحل",
+        "name_complex": "An-Naĥl",
+        "name_simple": "An-Nahl",
+        "name_english": "The Bee",
+        "ayah_count": 128
+    },
+    "17": {
+        "revelation_order": 50,
+        "revelation_place": "makkah",
+        "name_arabic": "الإسراء",
+        "name_complex": "Al-'Isrā",
+        "name_simple": "Al-Isra",
+        "name_english": "The Night Journey",
+        "ayah_count": 111
+    },
+    "18": {
+        "revelation_order": 69,
+        "revelation_place": "makkah",
+        "name_arabic": "الكهف",
+        "name_complex": "Al-Kahf",
+        "name_simple": "Al-Kahf",
+        "name_english": "The Cave",
+        "ayah_count": 110
+    },
+    "19": {
+        "revelation_order": 44,
+        "revelation_place": "makkah",
+        "name_arabic": "مريم",
+        "name_complex": "Maryam",
+        "name_simple": "Maryam",
+        "name_english": "Mary",
+        "ayah_count": 98
+    },
+    "20": {
+        "revelation_order": 45,
+        "revelation_place": "makkah",
+        "name_arabic": "طه",
+        "name_complex": "Ţāhā",
+        "name_simple": "Taha",
+        "name_english": "Ta-Ha",
+        "ayah_count": 135
+    },
+    "21": {
+        "revelation_order": 73,
+        "revelation_place": "makkah",
+        "name_arabic": "الأنبياء",
+        "name_complex": "Al-'Anbyā",
+        "name_simple": "Al-Anbya",
+        "name_english": "The Prophets",
+        "ayah_count": 112
+    },
+    "22": {
+        "revelation_order": 103,
+        "revelation_place": "madinah",
+        "name_arabic": "الحج",
+        "name_complex": "Al-Ĥaj",
+        "name_simple": "Al-Haj",
+        "name_english": "The Pilgrimage",
+        "ayah_count": 78
+    },
+    "23": {
+        "revelation_order": 74,
+        "revelation_place": "makkah",
+        "name_arabic": "المؤمنون",
+        "name_complex": "Al-Mu'minūn",
+        "name_simple": "Al-Mu'minun",
+        "name_english": "The Believers",
+        "ayah_count": 118
+    },
+    "24": {
+        "revelation_order": 102,
+        "revelation_place": "madinah",
+        "name_arabic": "النور",
+        "name_complex": "An-Nūr",
+        "name_simple": "An-Nur",
+        "name_english": "The Light",
+        "ayah_count": 64
+    },
+    "25": {
+        "revelation_order": 42,
+        "revelation_place": "makkah",
+        "name_arabic": "الفرقان",
+        "name_complex": "Al-Furqān",
+        "name_simple": "Al-Furqan",
+        "name_english": "The Criterian",
+        "ayah_count": 77
+    },
+    "26": {
+        "revelation_order": 47,
+        "revelation_place": "makkah",
+        "name_arabic": "الشعراء",
+        "name_complex": "Ash-Shu`arā",
+        "name_simple": "Ash-Shu'ara",
+        "name_english": "The Poets",
+        "ayah_count": 227
+    },
+    "27": {
+        "revelation_order": 48,
+        "revelation_place": "makkah",
+        "name_arabic": "النمل",
+        "name_complex": "An-Naml",
+        "name_simple": "An-Naml",
+        "name_english": "The Ant",
+        "ayah_count": 93
+    },
+    "28": {
+        "revelation_order": 49,
+        "revelation_place": "makkah",
+        "name_arabic": "القصص",
+        "name_complex": "Al-Qaşaş",
+        "name_simple": "Al-Qasas",
+        "name_english": "The Stories",
+        "ayah_count": 88
+    },
+    "29": {
+        "revelation_order": 85,
+        "revelation_place": "makkah",
+        "name_arabic": "العنكبوت",
+        "name_complex": "Al-`Ankabūt",
+        "name_simple": "Al-'Ankabut",
+        "name_english": "The Spider",
+        "ayah_count": 69
+    },
+    "30": {
+        "revelation_order": 84,
+        "revelation_place": "makkah",
+        "name_arabic": "الروم",
+        "name_complex": "Ar-Rūm",
+        "name_simple": "Ar-Rum",
+        "name_english": "The Romans",
+        "ayah_count": 60
+    },
+    "31": {
+        "revelation_order": 57,
+        "revelation_place": "makkah",
+        "name_arabic": "لقمان",
+        "name_complex": "Luqmān",
+        "name_simple": "Luqman",
+        "name_english": "Luqman",
+        "ayah_count": 34
+    },
+    "32": {
+        "revelation_order": 75,
+        "revelation_place": "makkah",
+        "name_arabic": "السجدة",
+        "name_complex": "As-Sajdah",
+        "name_simple": "As-Sajdah",
+        "name_english": "The Prostration",
+        "ayah_count": 30
+    },
+    "33": {
+        "revelation_order": 90,
+        "revelation_place": "madinah",
+        "name_arabic": "الأحزاب",
+        "name_complex": "Al-'Aĥzāb",
+        "name_simple": "Al-Ahzab",
+        "name_english": "The Combined Forces",
+        "ayah_count": 73
+    },
+    "34": {
+        "revelation_order": 58,
+        "revelation_place": "makkah",
+        "name_arabic": "سبإ",
+        "name_complex": "Saba",
+        "name_simple": "Saba",
+        "name_english": "Sheba",
+        "ayah_count": 54
+    },
+    "35": {
+        "revelation_order": 43,
+        "revelation_place": "makkah",
+        "name_arabic": "فاطر",
+        "name_complex": "Fāţir",
+        "name_simple": "Fatir",
+        "name_english": "Originator",
+        "ayah_count": 45
+    },
+    "36": {
+        "revelation_order": 41,
+        "revelation_place": "makkah",
+        "name_arabic": "يس",
+        "name_complex": "Yā-Sīn",
+        "name_simple": "Ya-Sin",
+        "name_english": "Ya Sin",
+        "ayah_count": 83
+    },
+    "37": {
+        "revelation_order": 56,
+        "revelation_place": "makkah",
+        "name_arabic": "الصافات",
+        "name_complex": "Aş-Şāffāt",
+        "name_simple": "As-Saffat",
+        "name_english": "Those who set the Ranks",
+        "ayah_count": 182
+    },
+    "38": {
+        "revelation_order": 38,
+        "revelation_place": "makkah",
+        "name_arabic": "ص",
+        "name_complex": "Şād",
+        "name_simple": "Sad",
+        "name_english": "The Letter \"Saad\"",
+        "ayah_count": 88
+    },
+    "39": {
+        "revelation_order": 59,
+        "revelation_place": "makkah",
+        "name_arabic": "الزمر",
+        "name_complex": "Az-Zumar",
+        "name_simple": "Az-Zumar",
+        "name_english": "The Troops",
+        "ayah_count": 75
+    },
+    "40": {
+        "revelation_order": 60,
+        "revelation_place": "makkah",
+        "name_arabic": "غافر",
+        "name_complex": "Ghāfir",
+        "name_simple": "Ghafir",
+        "name_english": "The Forgiver",
+        "ayah_count": 85
+    },
+    "41": {
+        "revelation_order": 61,
+        "revelation_place": "makkah",
+        "name_arabic": "فصلت",
+        "name_complex": "Fuşşilat",
+        "name_simple": "Fussilat",
+        "name_english": "Explained in Detail",
+        "ayah_count": 54
+    },
+    "42": {
+        "revelation_order": 62,
+        "revelation_place": "makkah",
+        "name_arabic": "الشورى",
+        "name_complex": "Ash-Shūraá",
+        "name_simple": "Ash-Shuraa",
+        "name_english": "The Consultation",
+        "ayah_count": 53
+    },
+    "43": {
+        "revelation_order": 63,
+        "revelation_place": "makkah",
+        "name_arabic": "الزخرف",
+        "name_complex": "Az-Zukhruf",
+        "name_simple": "Az-Zukhruf",
+        "name_english": "The Ornaments of Gold",
+        "ayah_count": 89
+    },
+    "44": {
+        "revelation_order": 64,
+        "revelation_place": "makkah",
+        "name_arabic": "الدخان",
+        "name_complex": "Ad-Dukhān",
+        "name_simple": "Ad-Dukhan",
+        "name_english": "The Smoke",
+        "ayah_count": 59
+    },
+    "45": {
+        "revelation_order": 65,
+        "revelation_place": "makkah",
+        "name_arabic": "الجاثية",
+        "name_complex": "Al-Jāthiyah",
+        "name_simple": "Al-Jathiyah",
+        "name_english": "The Crouching",
+        "ayah_count": 37
+    },
+    "46": {
+        "revelation_order": 66,
+        "revelation_place": "makkah",
+        "name_arabic": "الأحقاف",
+        "name_complex": "Al-'Aĥqāf",
+        "name_simple": "Al-Ahqaf",
+        "name_english": "The Wind-Curved Sandhills",
+        "ayah_count": 35
+    },
+    "47": {
+        "revelation_order": 95,
+        "revelation_place": "madinah",
+        "name_arabic": "محمد",
+        "name_complex": "Muĥammad",
+        "name_simple": "Muhammad",
+        "name_english": "Muhammad",
+        "ayah_count": 38
+    },
+    "48": {
+        "revelation_order": 111,
+        "revelation_place": "madinah",
+        "name_arabic": "الفتح",
+        "name_complex": "Al-Fatĥ",
+        "name_simple": "Al-Fath",
+        "name_english": "The Victory",
+        "ayah_count": 29
+    },
+    "49": {
+        "revelation_order": 106,
+        "revelation_place": "madinah",
+        "name_arabic": "الحجرات",
+        "name_complex": "Al-Ĥujurāt",
+        "name_simple": "Al-Hujurat",
+        "name_english": "The Rooms",
+        "ayah_count": 18
+    },
+    "50": {
+        "revelation_order": 34,
+        "revelation_place": "makkah",
+        "name_arabic": "ق",
+        "name_complex": "Qāf",
+        "name_simple": "Qaf",
+        "name_english": "The Letter \"Qaf\"",
+        "ayah_count": 45
+    },
+    "51": {
+        "revelation_order": 67,
+        "revelation_place": "makkah",
+        "name_arabic": "الذاريات",
+        "name_complex": "Adh-Dhāriyāt",
+        "name_simple": "Adh-Dhariyat",
+        "name_english": "The Winnowing Winds",
+        "ayah_count": 60
+    },
+    "52": {
+        "revelation_order": 76,
+        "revelation_place": "makkah",
+        "name_arabic": "الطور",
+        "name_complex": "Aţ-Ţūr",
+        "name_simple": "At-Tur",
+        "name_english": "The Mount",
+        "ayah_count": 49
+    },
+    "53": {
+        "revelation_order": 23,
+        "revelation_place": "makkah",
+        "name_arabic": "النجم",
+        "name_complex": "An-Najm",
+        "name_simple": "An-Najm",
+        "name_english": "The Star",
+        "ayah_count": 62
+    },
+    "54": {
+        "revelation_order": 37,
+        "revelation_place": "makkah",
+        "name_arabic": "القمر",
+        "name_complex": "Al-Qamar",
+        "name_simple": "Al-Qamar",
+        "name_english": "The Moon",
+        "ayah_count": 55
+    },
+    "55": {
+        "revelation_order": 97,
+        "revelation_place": "madinah",
+        "name_arabic": "الرحمن",
+        "name_complex": "Ar-Raĥmān",
+        "name_simple": "Ar-Rahman",
+        "name_english": "The Beneficent",
+        "ayah_count": 78
+    },
+    "56": {
+        "revelation_order": 46,
+        "revelation_place": "makkah",
+        "name_arabic": "الواقعة",
+        "name_complex": "Al-Wāqi`ah",
+        "name_simple": "Al-Waqi'ah",
+        "name_english": "The Inevitable",
+        "ayah_count": 96
+    },
+    "57": {
+        "revelation_order": 94,
+        "revelation_place": "madinah",
+        "name_arabic": "الحديد",
+        "name_complex": "Al-Ĥadīd",
+        "name_simple": "Al-Hadid",
+        "name_english": "The Iron",
+        "ayah_count": 29
+    },
+    "58": {
+        "revelation_order": 105,
+        "revelation_place": "madinah",
+        "name_arabic": "المجادلة",
+        "name_complex": "Al-Mujādila",
+        "name_simple": "Al-Mujadila",
+        "name_english": "The Pleading Woman",
+        "ayah_count": 22
+    },
+    "59": {
+        "revelation_order": 101,
+        "revelation_place": "madinah",
+        "name_arabic": "الحشر",
+        "name_complex": "Al-Ĥashr",
+        "name_simple": "Al-Hashr",
+        "name_english": "The Exile",
+        "ayah_count": 24
+    },
+    "60": {
+        "revelation_order": 91,
+        "revelation_place": "madinah",
+        "name_arabic": "الممتحنة",
+        "name_complex": "Al-Mumtaĥanah",
+        "name_simple": "Al-Mumtahanah",
+        "name_english": "She that is to be examined",
+        "ayah_count": 13
+    },
+    "61": {
+        "revelation_order": 109,
+        "revelation_place": "madinah",
+        "name_arabic": "الصف",
+        "name_complex": "Aş-Şaf",
+        "name_simple": "As-Saf",
+        "name_english": "The Ranks",
+        "ayah_count": 14
+    },
+    "62": {
+        "revelation_order": 110,
+        "revelation_place": "madinah",
+        "name_arabic": "الجمعة",
+        "name_complex": "Al-Jumu`ah",
+        "name_simple": "Al-Jumu'ah",
+        "name_english": "The Congregation, Friday",
+        "ayah_count": 11
+    },
+    "63": {
+        "revelation_order": 104,
+        "revelation_place": "madinah",
+        "name_arabic": "المنافقون",
+        "name_complex": "Al-Munāfiqūn",
+        "name_simple": "Al-Munafiqun",
+        "name_english": "The Hypocrites",
+        "ayah_count": 11
+    },
+    "64": {
+        "revelation_order": 108,
+        "revelation_place": "madinah",
+        "name_arabic": "التغابن",
+        "name_complex": "At-Taghābun",
+        "name_simple": "At-Taghabun",
+        "name_english": "The Mutual Disillusion",
+        "ayah_count": 18
+    },
+    "65": {
+        "revelation_order": 99,
+        "revelation_place": "madinah",
+        "name_arabic": "الطلاق",
+        "name_complex": "Aţ-Ţalāq",
+        "name_simple": "At-Talaq",
+        "name_english": "The Divorce",
+        "ayah_count": 12
+    },
+    "66": {
+        "revelation_order": 107,
+        "revelation_place": "madinah",
+        "name_arabic": "التحريم",
+        "name_complex": "At-Taĥrīm",
+        "name_simple": "At-Tahrim",
+        "name_english": "The Prohibtiion",
+        "ayah_count": 12
+    },
+    "67": {
+        "revelation_order": 77,
+        "revelation_place": "makkah",
+        "name_arabic": "الملك",
+        "name_complex": "Al-Mulk",
+        "name_simple": "Al-Mulk",
+        "name_english": "The Sovereignty",
+        "ayah_count": 30
+    },
+    "68": {
+        "revelation_order": 2,
+        "revelation_place": "makkah",
+        "name_arabic": "القلم",
+        "name_complex": "Al-Qalam",
+        "name_simple": "Al-Qalam",
+        "name_english": "The Pen",
+        "ayah_count": 52
+    },
+    "69": {
+        "revelation_order": 78,
+        "revelation_place": "makkah",
+        "name_arabic": "الحاقة",
+        "name_complex": "Al-Ĥāqqah",
+        "name_simple": "Al-Haqqah",
+        "name_english": "The Reality",
+        "ayah_count": 52
+    },
+    "70": {
+        "revelation_order": 79,
+        "revelation_place": "makkah",
+        "name_arabic": "المعارج",
+        "name_complex": "Al-Ma`ārij",
+        "name_simple": "Al-Ma'arij",
+        "name_english": "The Ascending Stairways",
+        "ayah_count": 44
+    },
+    "71": {
+        "revelation_order": 71,
+        "revelation_place": "makkah",
+        "name_arabic": "نوح",
+        "name_complex": "Nūĥ",
+        "name_simple": "Nuh",
+        "name_english": "Noah",
+        "ayah_count": 28
+    },
+    "72": {
+        "revelation_order": 40,
+        "revelation_place": "makkah",
+        "name_arabic": "الجن",
+        "name_complex": "Al-Jinn",
+        "name_simple": "Al-Jinn",
+        "name_english": "The Jinn",
+        "ayah_count": 28
+    },
+    "73": {
+        "revelation_order": 3,
+        "revelation_place": "makkah",
+        "name_arabic": "المزمل",
+        "name_complex": "Al-Muzzammil",
+        "name_simple": "Al-Muzzammil",
+        "name_english": "The Enshrouded One",
+        "ayah_count": 20
+    },
+    "74": {
+        "revelation_order": 4,
+        "revelation_place": "makkah",
+        "name_arabic": "المدثر",
+        "name_complex": "Al-Muddaththir",
+        "name_simple": "Al-Muddaththir",
+        "name_english": "The Cloaked One",
+        "ayah_count": 56
+    },
+    "75": {
+        "revelation_order": 31,
+        "revelation_place": "makkah",
+        "name_arabic": "القيامة",
+        "name_complex": "Al-Qiyāmah",
+        "name_simple": "Al-Qiyamah",
+        "name_english": "The Resurrection",
+        "ayah_count": 40
+    },
+    "76": {
+        "revelation_order": 98,
+        "revelation_place": "madinah",
+        "name_arabic": "الانسان",
+        "name_complex": "Al-'Insān",
+        "name_simple": "Al-Insan",
+        "name_english": "The Man",
+        "ayah_count": 31
+    },
+    "77": {
+        "revelation_order": 33,
+        "revelation_place": "makkah",
+        "name_arabic": "المرسلات",
+        "name_complex": "Al-Mursalāt",
+        "name_simple": "Al-Mursalat",
+        "name_english": "The Emissaries",
+        "ayah_count": 50
+    },
+    "78": {
+        "revelation_order": 80,
+        "revelation_place": "makkah",
+        "name_arabic": "النبإ",
+        "name_complex": "An-Naba",
+        "name_simple": "An-Naba",
+        "name_english": "The Tidings",
+        "ayah_count": 40
+    },
+    "79": {
+        "revelation_order": 81,
+        "revelation_place": "makkah",
+        "name_arabic": "النازعات",
+        "name_complex": "An-Nāzi`āt",
+        "name_simple": "An-Nazi'at",
+        "name_english": "Those who drag forth",
+        "ayah_count": 46
+    },
+    "80": {
+        "revelation_order": 24,
+        "revelation_place": "makkah",
+        "name_arabic": "عبس",
+        "name_complex": "`Abasa",
+        "name_simple": "'Abasa",
+        "name_english": "He Frowned",
+        "ayah_count": 42
+    },
+    "81": {
+        "revelation_order": 7,
+        "revelation_place": "makkah",
+        "name_arabic": "التكوير",
+        "name_complex": "At-Takwīr",
+        "name_simple": "At-Takwir",
+        "name_english": "The Overthrowing",
+        "ayah_count": 29
+    },
+    "82": {
+        "revelation_order": 82,
+        "revelation_place": "makkah",
+        "name_arabic": "الإنفطار",
+        "name_complex": "Al-'Infiţār",
+        "name_simple": "Al-Infitar",
+        "name_english": "The Cleaving",
+        "ayah_count": 19
+    },
+    "83": {
+        "revelation_order": 86,
+        "revelation_place": "makkah",
+        "name_arabic": "المطففين",
+        "name_complex": "Al-Muţaffifīn",
+        "name_simple": "Al-Mutaffifin",
+        "name_english": "The Defrauding",
+        "ayah_count": 36
+    },
+    "84": {
+        "revelation_order": 83,
+        "revelation_place": "makkah",
+        "name_arabic": "الإنشقاق",
+        "name_complex": "Al-'Inshiqāq",
+        "name_simple": "Al-Inshiqaq",
+        "name_english": "The Sundering",
+        "ayah_count": 25
+    },
+    "85": {
+        "revelation_order": 27,
+        "revelation_place": "makkah",
+        "name_arabic": "البروج",
+        "name_complex": "Al-Burūj",
+        "name_simple": "Al-Buruj",
+        "name_english": "The Mansions of the Stars",
+        "ayah_count": 22
+    },
+    "86": {
+        "revelation_order": 36,
+        "revelation_place": "makkah",
+        "name_arabic": "الطارق",
+        "name_complex": "Aţ-Ţāriq",
+        "name_simple": "At-Tariq",
+        "name_english": "The Nightcommer",
+        "ayah_count": 17
+    },
+    "87": {
+        "revelation_order": 8,
+        "revelation_place": "makkah",
+        "name_arabic": "الأعلى",
+        "name_complex": "Al-'A`lá",
+        "name_simple": "Al-A'la",
+        "name_english": "The Most High",
+        "ayah_count": 19
+    },
+    "88": {
+        "revelation_order": 68,
+        "revelation_place": "makkah",
+        "name_arabic": "الغاشية",
+        "name_complex": "Al-Ghāshiyah",
+        "name_simple": "Al-Ghashiyah",
+        "name_english": "The Overwhelming",
+        "ayah_count": 26
+    },
+    "89": {
+        "revelation_order": 10,
+        "revelation_place": "makkah",
+        "name_arabic": "الفجر",
+        "name_complex": "Al-Fajr",
+        "name_simple": "Al-Fajr",
+        "name_english": "The Dawn",
+        "ayah_count": 30
+    },
+    "90": {
+        "revelation_order": 35,
+        "revelation_place": "makkah",
+        "name_arabic": "البلد",
+        "name_complex": "Al-Balad",
+        "name_simple": "Al-Balad",
+        "name_english": "The City",
+        "ayah_count": 20
+    },
+    "91": {
+        "revelation_order": 26,
+        "revelation_place": "makkah",
+        "name_arabic": "الشمس",
+        "name_complex": "Ash-Shams",
+        "name_simple": "Ash-Shams",
+        "name_english": "The Sun",
+        "ayah_count": 15
+    },
+    "92": {
+        "revelation_order": 9,
+        "revelation_place": "makkah",
+        "name_arabic": "الليل",
+        "name_complex": "Al-Layl",
+        "name_simple": "Al-Layl",
+        "name_english": "The Night",
+        "ayah_count": 21
+    },
+    "93": {
+        "revelation_order": 11,
+        "revelation_place": "makkah",
+        "name_arabic": "الضحى",
+        "name_complex": "Ađ-Đuĥaá",
+        "name_simple": "Ad-Duhaa",
+        "name_english": "The Morning Hours",
+        "ayah_count": 11
+    },
+    "94": {
+        "revelation_order": 12,
+        "revelation_place": "makkah",
+        "name_arabic": "الشرح",
+        "name_complex": "Ash-Sharĥ",
+        "name_simple": "Ash-Sharh",
+        "name_english": "The Relief",
+        "ayah_count": 8
+    },
+    "95": {
+        "revelation_order": 28,
+        "revelation_place": "makkah",
+        "name_arabic": "التين",
+        "name_complex": "At-Tīn",
+        "name_simple": "At-Tin",
+        "name_english": "The Fig",
+        "ayah_count": 8
+    },
+    "96": {
+        "revelation_order": 1,
+        "revelation_place": "makkah",
+        "name_arabic": "العلق",
+        "name_complex": "Al-`Alaq",
+        "name_simple": "Al-'Alaq",
+        "name_english": "The Clot",
+        "ayah_count": 19
+    },
+    "97": {
+        "revelation_order": 25,
+        "revelation_place": "makkah",
+        "name_arabic": "القدر",
+        "name_complex": "Al-Qadr",
+        "name_simple": "Al-Qadr",
+        "name_english": "The Power",
+        "ayah_count": 5
+    },
+    "98": {
+        "revelation_order": 100,
+        "revelation_place": "madinah",
+        "name_arabic": "البينة",
+        "name_complex": "Al-Bayyinah",
+        "name_simple": "Al-Bayyinah",
+        "name_english": "The Clear Proof",
+        "ayah_count": 8
+    },
+    "99": {
+        "revelation_order": 93,
+        "revelation_place": "madinah",
+        "name_arabic": "الزلزلة",
+        "name_complex": "Az-Zalzalah",
+        "name_simple": "Az-Zalzalah",
+        "name_english": "The Earthquake",
+        "ayah_count": 8
+    },
+    "100": {
+        "revelation_order": 14,
+        "revelation_place": "makkah",
+        "name_arabic": "العاديات",
+        "name_complex": "Al-`Ādiyāt",
+        "name_simple": "Al-'Adiyat",
+        "name_english": "The Courser",
+        "ayah_count": 11
+    },
+    "101": {
+        "revelation_order": 30,
+        "revelation_place": "makkah",
+        "name_arabic": "القارعة",
+        "name_complex": "Al-Qāri`ah",
+        "name_simple": "Al-Qari'ah",
+        "name_english": "The Calamity",
+        "ayah_count": 11
+    },
+    "102": {
+        "revelation_order": 16,
+        "revelation_place": "makkah",
+        "name_arabic": "التكاثر",
+        "name_complex": "At-Takāthur",
+        "name_simple": "At-Takathur",
+        "name_english": "The Rivalry in world increase",
+        "ayah_count": 8
+    },
+    "103": {
+        "revelation_order": 13,
+        "revelation_place": "makkah",
+        "name_arabic": "العصر",
+        "name_complex": "Al-`Aşr",
+        "name_simple": "Al-'Asr",
+        "name_english": "The Declining Day",
+        "ayah_count": 3
+    },
+    "104": {
+        "revelation_order": 32,
+        "revelation_place": "makkah",
+        "name_arabic": "الهمزة",
+        "name_complex": "Al-Humazah",
+        "name_simple": "Al-Humazah",
+        "name_english": "The Traducer",
+        "ayah_count": 9
+    },
+    "105": {
+        "revelation_order": 19,
+        "revelation_place": "makkah",
+        "name_arabic": "الفيل",
+        "name_complex": "Al-Fīl",
+        "name_simple": "Al-Fil",
+        "name_english": "The Elephant",
+        "ayah_count": 5
+    },
+    "106": {
+        "revelation_order": 29,
+        "revelation_place": "makkah",
+        "name_arabic": "قريش",
+        "name_complex": "Quraysh",
+        "name_simple": "Quraysh",
+        "name_english": "Quraysh",
+        "ayah_count": 4
+    },
+    "107": {
+        "revelation_order": 17,
+        "revelation_place": "makkah",
+        "name_arabic": "الماعون",
+        "name_complex": "Al-Mā`ūn",
+        "name_simple": "Al-Ma'un",
+        "name_english": "The Small Kindesses",
+        "ayah_count": 7
+    },
+    "108": {
+        "revelation_order": 15,
+        "revelation_place": "makkah",
+        "name_arabic": "الكوثر",
+        "name_complex": "Al-Kawthar",
+        "name_simple": "Al-Kawthar",
+        "name_english": "The Abundance",
+        "ayah_count": 3
+    },
+    "109": {
+        "revelation_order": 18,
+        "revelation_place": "makkah",
+        "name_arabic": "الكافرون",
+        "name_complex": "Al-Kāfirūn",
+        "name_simple": "Al-Kafirun",
+        "name_english": "The Disbelievers",
+        "ayah_count": 6
+    },
+    "110": {
+        "revelation_order": 114,
+        "revelation_place": "madinah",
+        "name_arabic": "النصر",
+        "name_complex": "An-Naşr",
+        "name_simple": "An-Nasr",
+        "name_english": "The Divine Support",
+        "ayah_count": 3
+    },
+    "111": {
+        "revelation_order": 6,
+        "revelation_place": "makkah",
+        "name_arabic": "المسد",
+        "name_complex": "Al-Masad",
+        "name_simple": "Al-Masad",
+        "name_english": "The Palm Fiber",
+        "ayah_count": 5
+    },
+    "112": {
+        "revelation_order": 22,
+        "revelation_place": "makkah",
+        "name_arabic": "الإخلاص",
+        "name_complex": "Al-'Ikhlāş",
+        "name_simple": "Al-Ikhlas",
+        "name_english": "The Sincerity",
+        "ayah_count": 4
+    },
+    "113": {
+        "revelation_order": 20,
+        "revelation_place": "makkah",
+        "name_arabic": "الفلق",
+        "name_complex": "Al-Falaq",
+        "name_simple": "Al-Falaq",
+        "name_english": "The Daybreak",
+        "ayah_count": 5
+    },
+    "114": {
+        "revelation_order": 21,
+        "revelation_place": "makkah",
+        "name_arabic": "الناس",
+        "name_complex": "An-Nās",
+        "name_simple": "An-Nas",
+        "name_english": "The Mankind",
+        "ayah_count": 6
+    }
+}
