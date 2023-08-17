@@ -69,4 +69,4 @@ plt.scatter(names, ayahs_count, s=1, c='red', marker='.', alpha=1)
 plt.plot(names, ayahs_count, '-', c='black', alpha=0.05)
 plt.plot(names[46:49], ayahs_count[46:49], '-', c='black', alpha=0.1)
 
-plt.savefig('surahs.png', bbox_inches='tight', dpi=1024)
+plt.savefig('plot.png', bbox_inches='tight', dpi=1024)
